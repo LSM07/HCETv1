@@ -10,7 +10,7 @@ voices. Every additional voice added is placed in a lower octave; there will
 never be voice-crossing between 2 octaves as to not confuse the student.
 
 
-These are Windows-only as of right now. You can either choose to install
-the program or just run it as it is. If you do choose to not install it,
-make sure the midi.dll is in the same folder as the exe so that it will
-run properly.
+These are Windows-only as of right now. Just download the zip file
+(look to the lower right where it says "Download zip" and extract 
+wherever. Just make sure the .exe and midi.dll are in the same folder!
+Enjoy!
