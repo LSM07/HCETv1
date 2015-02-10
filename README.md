@@ -11,6 +11,6 @@ never be voice-crossing between 2 octaves as to not confuse the student.
 
 
 These are Windows-only as of right now. Just download the zip file
-(look to the lower right where it says "Download zip" and extract 
+(look to the right where it says "Download zip" and extract 
 wherever. Just make sure the .exe and midi.dll are in the same folder!
 Enjoy!
